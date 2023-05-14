@@ -25,7 +25,7 @@
 需要注意，你仍然需要下载一个Python 3.8的[环境包](https://pan.baidu.com/s/1fb8Gao7Bp_alJ8OLKrmtsg?pwd=DLVB)用于So-VITS的运行(点击环境包即可)，不过不用担心，我已经替你配置好了，你只需要下载并解压在DL-B文件夹中，并且保持文件路径
 ```
 DL-B
-├───speaker0
+├───python3.8
    ├───Lib
    ├───libs
    ├───···
