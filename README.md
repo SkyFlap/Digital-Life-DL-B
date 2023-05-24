@@ -154,6 +154,7 @@ face_dir = "./source/"
 
 ---
 不出意外，最后直接在VScode或者其他的软件中运行`main_demo.py`即可。祝大家玩的开心。
+[![Star over time]( https://starchar.cc/SkyFlap/Digital-Life-DL-B.svg)](https://starchar.cc/SkyFlap/Digital-Life-DL-B)
 
 ## 协议
 
